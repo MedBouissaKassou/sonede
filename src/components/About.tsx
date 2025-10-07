@@ -47,7 +47,6 @@ export default function About() {
                   </div>
                 </div>
 
-
                 <div className="flex gap-4">
                   <div className="flex-shrink-0">
                     <div className="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center">
